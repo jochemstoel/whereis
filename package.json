@@ -1,0 +1,12 @@
+{
+  "name": "g-whereis",
+  "version": "0.0.2",
+  "description": "",
+  "main": "whereis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "whereis.js", 
+  "author": "Jochem Stoel",
+  "license": "ISC"
+}
